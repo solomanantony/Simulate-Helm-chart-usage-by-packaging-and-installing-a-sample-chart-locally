@@ -66,10 +66,6 @@ HELMDEMO
 └── README.md
 ```
 
-### Folder Structure Screenshot
-
-![Folder Structure](screenshots/Folder-structure.png)
-
 ---
 
 # Step 1: Verify Helm Installation
