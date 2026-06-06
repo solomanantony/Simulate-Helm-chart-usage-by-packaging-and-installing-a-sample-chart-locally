@@ -78,7 +78,7 @@ helm version
 
 ### Output
 
-![Helm Version Output](screenshots/Helm-version-output.png)
+![Helm Version Output](screenshots/helm-version.png)
 
 ---
 
